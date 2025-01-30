@@ -1,0 +1,24 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.ts",
+  "scripts": {
+    "build": "tsc",
+    "add": "ts-node src/app.ts add",
+    "list": "ts-node src/app.ts list",
+    "delete": "ts-node src/app.ts delete",
+    "update": "ts-node src/app.ts update",
+    "mark-in-progress": "ts-node src/app.ts mark-in-progress",
+    "mark-done": "ts-node src/app.ts mark-done",
+    "clear": "rm -rf dist"
+  },
+  "keywords": [],
+  "author": "Abdullah",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
