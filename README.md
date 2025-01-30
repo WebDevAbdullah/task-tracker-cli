@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-CLI project to keep track tasks based on roadmap [Task Tracker CLI](https://roadmap.sh/projects/expense-tracker)
+CLI project to keep track tasks based on roadmap [Task Tracker CLI](https://roadmap.sh/projects/task-tracker))
 
 ## Installation
 
